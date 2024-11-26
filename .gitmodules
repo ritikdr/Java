@@ -1,0 +1,6 @@
+[submodule "path/to/embedded-repo"]
+	path = path/to/embedded-repo
+	url = https://github.com/ritikdr/Java.git
+[submodule "pattensubmodule"]
+	path = pattensubmodule
+	url = https://github.com/ritikdr/Java.git
